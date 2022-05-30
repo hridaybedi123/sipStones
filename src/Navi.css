@@ -1,0 +1,49 @@
+.Navi{
+    background-color: whitesmoke;
+    border-bottom: 5px solid black;
+}
+
+
+li{
+    display: inline-block;
+    
+}
+.navg{
+    text-align: end;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+    
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+ 
+    text-decoration: none;
+    float: right;
+    padding: 18px 40px;
+  }
+
+  .list{
+    margin: 0;
+  }
+
+  li a:hover {
+    background-color: whitesmoke;
+  }
+
+  .logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    height: 70px;
+    margin-top: 5px;
+    margin-right: 1150px;
+}
+

@@ -1,0 +1,8 @@
+.dumbo2{
+    --Jumbo-color: lightBlue-to-blue-Gragiant;
+    min-width: 1900px;
+    min-height: 900px;
+    background: rgb(0,63,255);
+    background: linear-gradient(0deg, rgba(0,63,255,1) 0%, rgba(50,50,150,1) 52%, rgba(0,131,194,1) 76%, rgba(0,212,255,1) 100%);
+}
+/*var(--Jumbo-color)*/

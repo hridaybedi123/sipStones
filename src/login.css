@@ -1,0 +1,14 @@
+.mama{
+    background-image: url(/public/LogBG.jpg);
+    height: 947px;
+    width:auto;
+    background-repeat: no-repeat;
+    background-position-x: -400px;
+    background-size: 1800px;
+}
+
+.newspaper {
+    column-count: 3;
+    column-gap: 40px;
+    column-rule: 1px solid lightblue;
+  }
