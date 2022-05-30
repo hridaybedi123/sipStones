@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sipStones/static/css/main.45b7d707.css",
+    "main.js": "/sipStones/static/js/main.756e2cd4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sipStones/static/js/787.28cb0dcd.chunk.js",
+    "static/media/LogBG.jpg": "/sipStones/static/media/LogBG.849b33a25b0385adc073.jpg",
+    "static/media/HighSchool.jpg": "/sipStones/static/media/HighSchool.b6409deb09e81601e076.jpg",
+    "index.html": "/sipStones/index.html",
+    "main.45b7d707.css.map": "/sipStones/static/css/main.45b7d707.css.map",
+    "main.756e2cd4.js.map": "/sipStones/static/js/main.756e2cd4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sipStones/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b7d707.css",
+    "static/js/main.756e2cd4.js"
+  ]
+}
